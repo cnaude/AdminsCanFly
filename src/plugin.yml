@@ -1,0 +1,9 @@
+name: AdminsCanFly
+description: Allows select bypassing of the default flight kicking.
+main: Lappy.AdminsCanFly.AdminsCanFly
+version: 1.4a
+author: Lappy
+permissions:
+    adminscanfly.allow:
+        default: false
+        description: Allows bypassing of the default flight kicking.
